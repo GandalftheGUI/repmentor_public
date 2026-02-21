@@ -1,6 +1,7 @@
 # RepMentor — Case Study
 
 **Full-Stack Mobile App | Solo Developer | React Native, Expo, Supabase, OpenAI**
+
 <img width="1242" height="960" alt="Screenshot 2026-02-17 at 12 05 21 PM" src="https://github.com/user-attachments/assets/e497ddee-3c22-4e98-b242-ab5e434b7b0f" />
 
 ---
